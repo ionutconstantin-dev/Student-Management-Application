@@ -119,7 +119,7 @@ After starting the application, access the following features through a browser:
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: ionutconstantin.dev@example.com
+- **Email**: ionutconstantin.dev@gmail.com
 - **GitHub**: [ionutconstantin-dev](https://github.com/ionutconstantin-dev)
 
 ---
